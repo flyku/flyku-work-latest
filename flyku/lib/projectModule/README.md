@@ -43,6 +43,6 @@ div{
 ###防止打包压缩后造成文件无法访问。例如：index.htm   不能使用index.html
 
 ###ico图标路径如下所示，不准改变
-###<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
+###<link rel="shortcut icon" href="/icons/favicon.ico" type="image/x-icon" />
 
 ###可以建立ui下的module文件，也可以不用，根据实际情况而定。多模板形式使用module比较方便。

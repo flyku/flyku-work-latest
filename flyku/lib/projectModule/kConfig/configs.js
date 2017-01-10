@@ -68,6 +68,7 @@
          * 需要拷贝到发布目录的静态资源，目前只支持文件夹
          */
         "staticResource": [
+            {source: "./icons", target: "./"},
             {source: "./src/images", target: "./"},
             {source: "./plugins", target: "./"}
         ],
