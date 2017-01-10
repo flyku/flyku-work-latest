@@ -1,0 +1,41 @@
+{
+  "name": "flyku-manage",
+  "title": "flyku-manage a flyku project",
+  "description": "发布一个flyku项目，包括打包js css，检索所需的图片等文件，发布到一个文件夹中。",
+  "version": "0.0.3",
+  "homepage": "",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "author": {
+    "name": "flyku"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyku/flyku-manage.git"
+  },
+  "bugs": {
+    "url": "XXX"
+  },
+  "bin": {
+    "kp": "./bin/kp"
+  },
+  "dependencies": {
+    "shelljs": "latest",
+    "consoleplusplus": "latest",
+    "jspacker": "latest",
+    "clean-css": "latest",
+    "html-minifier": "latest",
+    "mime": "latest",
+    "less": "latest",
+    "flyku-include": "latest",
+    "optimist": "latest"
+  },
+  "keywords": [
+    "publish",
+    "project",
+    "nodejs"
+  ],
+  "_from": "flyku-manage@0.0.3",
+  "_resolved": "http://registry.npm.taobao.org/flyku-manage/download/flyku-manage-0.0.3.tgz"
+}

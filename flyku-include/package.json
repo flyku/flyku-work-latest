@@ -1,0 +1,27 @@
+{
+  "name": "flyku-include",
+  "title": "flyku-include",
+  "description": "flyku-include 是html 标签include的扩展插件。",
+  "version": "0.0.1",
+  "homepage": "",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "author": {
+    "name": "flyku"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyku/flyku-include.git"
+  },
+  "bugs": {
+    "url": "XXX"
+  },
+  "bin": {},
+  "dependencies": {},
+  "keywords": [
+    "tag 扩展"
+  ],
+  "_from": "flyku-include@0.0.1",
+  "_resolved": "http://registry.npm.taobao.org/flyku-include/download/flyku-include-0.0.1.tgz"
+}
